@@ -8,8 +8,8 @@ $(".first").css("color", "green");
 $(".first").addeventlistener("click", handleClick);
 
 
-function handleClick(){
-    alert("clicked")
-};
+//function handleClick(){
+//    alert("clicked")
+//};
 
 
