@@ -12,3 +12,12 @@ node
 #Entering a directory____________
 - Type in cd
 - Drag the folder that you want to enter into the terminal (remove the & sign)
+
+#Initializing NPM_____________________________
+npm init
+
+#Installing__________
+npm i <package or module name>   #Note: i stands for install
+
+#Steps to run the program in node js______________________
+nodemon index.js   #Note; it doesn't have to be index.js it could be any file name
