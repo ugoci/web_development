@@ -21,3 +21,5 @@ npm i <package or module name>   #Note: i stands for install
 
 #Steps to run the program in node js______________________
 nodemon index.js   #Note; it doesn't have to be index.js it could be any file name
+
+#To comment out a block of code, highlight it and use "ctrl /"
